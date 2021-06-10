@@ -1,4 +1,4 @@
-# TechBlog-MVC
+# BlogTime
 
 ## Contents
 
@@ -7,9 +7,6 @@
 3. [Deploy](#Link)
 4. [Usage](#Usage)
 5. [License](#License)
-6. [Credits](#Credits)
-7. [Contributing](#Contributing)
-8. [Questions](#Questions)
 
 ## Technologies-Used
 
@@ -30,11 +27,12 @@
 
 ## Description
 
-- An Application that you have to create an account, and after sign in to the app it will let you create, update, delete a blog contents.
+- An Application that you have to create an account, and after signing in to the app it will let you create, update, and delete blog idea.
 
 ## Deployed application link
 
-- [Deployed Link]()
+- [Github Link](https://github.com/NathanForgille/blogtime)
+- [Deployed Link](https://pure-cove-26399.herokuapp.com/)
 
 
 ## Usage
